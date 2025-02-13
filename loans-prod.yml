@@ -1,0 +1,16 @@
+#spring:
+#  config:
+#    activate:
+#      on-profile: "prod"
+
+build:
+  version: "3.0"
+
+loans:
+  messages: "Welcome to loans Production"
+  contactDetails:
+    name: "Tanmaya bhatt"
+    email: "bhatt@gmail.com"
+  onCallSupport:
+    - (555) 897 123
+    - (555) 123 768

@@ -1,0 +1,15 @@
+#spring:
+#  config:
+#    activate:
+#      on-profile: "prod"
+build:
+  version: "1.0"
+
+accounts:
+  messages: "Welcome To EasyBank Accounts Production Module."
+  contactDetails:
+    name: "Tanmay Senapati"
+    email: "tanmay@gmail.com"
+  onCallSupport:
+    -(555)666-987
+    -(555)657-467

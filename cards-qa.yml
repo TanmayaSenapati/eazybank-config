@@ -1,0 +1,16 @@
+#spring:
+#  config:
+#    activate:
+#      on-profile: "qa"
+
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to cards QA"
+  contactDetails:
+    name: "Tanmay singh"
+    email: "singh@gmail.com"
+  onCallSupport:
+    - (666) 980 888
+    - (666) 765 098
