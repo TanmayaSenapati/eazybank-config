@@ -7,7 +7,7 @@ build:
   version: "3.0"
 
 cards:
-  messages: "Welcome to cards Production"
+  messages: "Welcome to cards Prod"
   contactDetails:
     name: "Tanmaya bhatt"
     email: "bhatt@gmail.com"
