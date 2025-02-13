@@ -7,7 +7,7 @@ build:
   version: "3.0"
 
 loans:
-  messages: "Welcome to loans Prod"
+  messages: "Welcome to loans Production"
   contactDetails:
     name: "Tanmaya bhatt"
     email: "bhatt@gmail.com"
