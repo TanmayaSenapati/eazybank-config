@@ -7,7 +7,7 @@ build:
   version: "3.0"
 
 cards:
-  messages: "Welcome to cards Prod"
+  messages: "Welcome To EasyBank Cards Production Module."
   contactDetails:
     name: "Tanmaya bhatt"
     email: "bhatt@gmail.com"
