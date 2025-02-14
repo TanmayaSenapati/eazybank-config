@@ -6,7 +6,7 @@ build:
   version: "1.0"
 
 accounts:
-  messages: "Welcome To EasyBank Accounts Production Module Cloud Bus."
+  messages: "Welcome To EasyBank Accounts Production Module Cloud."
   contactDetails:
     name: "Tanmay Senapati"
     email: "tanmay@gmail.com"
