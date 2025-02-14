@@ -7,7 +7,7 @@ build:
   version: "2.0"
 
 cards:
-  messages: "Welcome to EazyBank cards QA Module Cloud Bus."
+  messages: "Welcome to EazyBank cards QA Module Cloud."
   contactDetails:
     name: "Tanmay singh"
     email: "singh@gmail.com"
