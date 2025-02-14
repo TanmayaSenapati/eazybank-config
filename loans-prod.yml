@@ -7,7 +7,7 @@ build:
   version: "3.0"
 
 loans:
-  messages: "Welcome to Eazybank loans Prod Module Cloud Bus."
+  messages: "Welcome to Eazybank loans Prod Module Cloud."
   contactDetails:
     name: "Tanmaya bhatt"
     email: "bhatt@gmail.com"
