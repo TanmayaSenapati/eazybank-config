@@ -7,7 +7,7 @@ build:
   version: "2.0"
 
 loans:
-  messages: "Welcome to loans Production"
+  messages: "Welcome to Eazybank loans Production module"
   contactDetails:
     name: "Tanmaya singh"
     email: "bhatt@gmail.com"
