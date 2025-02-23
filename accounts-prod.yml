@@ -6,7 +6,7 @@ build:
   version: "1.0"
 
 accounts:
-  messages: "Welcome To EasyBank Accounts Production Module Webhooks."
+  messages: "Welcome To EasyBank Accounts Production Module Webhooks.com."
   contactDetails:
     name: "Tanmay Senapati"
     email: "tanmay@gmail.com"
