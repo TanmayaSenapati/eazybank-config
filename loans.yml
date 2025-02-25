@@ -26,7 +26,7 @@ build:
   version: "1.0"
 
 loans:
-  messages: "Welcome to Eazybank loans Production Module"
+  messages: "Welcome to Eazybank loans Local Module"
   contactDetails:
     name: "Tanmaya senapati"
     email: "bhatt@gmail.com"
