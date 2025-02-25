@@ -28,7 +28,7 @@ build:
   version: "3.0"
 
 accounts:
-  messages: "Welcome To EasyBank Accounts local Module."
+  messages: "Welcome To EasyBank Accounts local Module changes."
   contactDetails:
     name: "Tanmay Senapati"
     email: "tanmay@gmail.com"
